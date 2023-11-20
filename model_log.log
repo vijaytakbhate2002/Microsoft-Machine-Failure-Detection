@@ -1,0 +1,779 @@
+2023-11-20 16:13:24,259 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:24,304 - DEBUG - Data ingestion started...
+2023-11-20 16:13:24,555 - INFO - Data ingestion completed.
+2023-11-20 16:13:24,555 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:24,583 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:24,587 - INFO - Data processing completed.
+2023-11-20 16:13:24,624 - INFO - Model training completed.
+2023-11-20 16:13:27,987 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:27,993 - DEBUG - Data ingestion started...
+2023-11-20 16:13:28,108 - INFO - Data ingestion completed.
+2023-11-20 16:13:28,108 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:28,130 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:28,132 - INFO - Data processing completed.
+2023-11-20 16:13:28,167 - INFO - Model training completed.
+2023-11-20 16:13:39,261 - INFO - Visualisation button clicked, redirecting to visualization module.
+2023-11-20 16:13:39,261 - DEBUG - Data visualization initiated...
+2023-11-20 16:13:39,270 - DEBUG - Data showroom initiated...
+2023-11-20 16:13:39,503 - INFO - Data showroom completed.
+2023-11-20 16:13:39,507 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,507 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,511 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,634 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,634 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:13:39,636 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,636 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:13:39,636 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,636 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,636 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,702 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,702 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:13:39,702 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,703 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:13:39,703 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,706 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,706 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,748 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,756 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,820 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,823 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,877 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,877 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:13:39,877 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,879 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:13:39,879 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,882 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:13:39,883 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:13:39,926 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,926 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:13:39,928 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,933 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:13:39,953 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,953 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:13:39,953 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:13:39,953 - DEBUG - STREAM b'IDAT' 131 13493
+2023-11-20 16:13:39,985 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:39,997 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:13:40,002 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:40,004 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:13:40,026 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:40,032 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:13:40,032 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:13:40,036 - DEBUG - STREAM b'IDAT' 131 31865
+2023-11-20 16:13:40,083 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:40,085 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:13:40,088 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:13:40,088 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:13:40,097 - INFO - Data visualization completed.
+2023-11-20 16:13:40,099 - INFO - Returned from visualisation module.
+2023-11-20 16:13:42,349 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:42,349 - DEBUG - Data ingestion started...
+2023-11-20 16:13:42,457 - INFO - Data ingestion completed.
+2023-11-20 16:13:42,463 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:42,475 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:42,476 - INFO - Data processing completed.
+2023-11-20 16:13:42,505 - INFO - Model training completed.
+2023-11-20 16:13:46,488 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:46,494 - DEBUG - Data ingestion started...
+2023-11-20 16:13:46,693 - INFO - Data ingestion completed.
+2023-11-20 16:13:46,693 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:46,701 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:46,701 - INFO - Data processing completed.
+2023-11-20 16:13:46,733 - INFO - Model training completed.
+2023-11-20 16:13:51,754 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:51,764 - DEBUG - Data ingestion started...
+2023-11-20 16:13:51,883 - INFO - Data ingestion completed.
+2023-11-20 16:13:51,885 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:51,904 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:51,904 - INFO - Data processing completed.
+2023-11-20 16:13:53,745 - INFO - Training score: 0.6718446601941748, Testing score: 0.562111801242236
+2023-11-20 16:13:53,772 - INFO - Precision: 0.5658093797276853, Recall: 0.5745007680491552, F1 Score: 0.5701219512195121
+2023-11-20 16:13:55,732 - INFO - Model training completed.
+2023-11-20 16:13:58,560 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:13:58,560 - DEBUG - Data ingestion started...
+2023-11-20 16:13:58,680 - INFO - Data ingestion completed.
+2023-11-20 16:13:58,680 - DEBUG - MinMax scaling started...
+2023-11-20 16:13:58,706 - DEBUG - MinMax scaling completed.
+2023-11-20 16:13:58,709 - INFO - Data processing completed.
+2023-11-20 16:13:59,341 - INFO - Training score: 0.589126213592233, Testing score: 0.5240683229813664
+2023-11-20 16:13:59,369 - INFO - Precision: 0.5324283559577677, Recall: 0.538109756097561, F1 Score: 0.5352539802880971
+2023-11-20 16:14:00,049 - INFO - Model training completed.
+2023-11-20 16:14:03,040 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:14:03,040 - DEBUG - Data ingestion started...
+2023-11-20 16:14:03,194 - INFO - Data ingestion completed.
+2023-11-20 16:14:03,194 - DEBUG - MinMax scaling started...
+2023-11-20 16:14:03,209 - DEBUG - MinMax scaling completed.
+2023-11-20 16:14:03,209 - INFO - Data processing completed.
+2023-11-20 16:14:03,372 - INFO - Training score: 0.5433009708737864, Testing score: 0.5458074534161491
+2023-11-20 16:14:03,395 - INFO - Precision: 0.5457364341085271, Recall: 0.546583850931677, F1 Score: 0.5461598138091543
+2023-11-20 16:14:03,459 - INFO - Model training completed.
+2023-11-20 16:14:44,652 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:14:44,655 - DEBUG - Data ingestion started...
+2023-11-20 16:14:44,838 - INFO - Data ingestion completed.
+2023-11-20 16:14:44,841 - DEBUG - MinMax scaling started...
+2023-11-20 16:14:44,855 - DEBUG - MinMax scaling completed.
+2023-11-20 16:14:44,855 - INFO - Data processing completed.
+2023-11-20 16:14:44,895 - INFO - Model training completed.
+2023-11-20 16:15:05,672 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:15:05,688 - DEBUG - Data ingestion started...
+2023-11-20 16:15:05,828 - INFO - Data ingestion completed.
+2023-11-20 16:15:05,842 - DEBUG - MinMax scaling started...
+2023-11-20 16:15:05,863 - DEBUG - MinMax scaling completed.
+2023-11-20 16:15:05,865 - INFO - Data processing completed.
+2023-11-20 16:15:05,896 - INFO - Model training completed.
+2023-11-20 16:15:06,412 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:15:06,419 - DEBUG - Data ingestion started...
+2023-11-20 16:15:06,550 - INFO - Data ingestion completed.
+2023-11-20 16:15:06,550 - DEBUG - MinMax scaling started...
+2023-11-20 16:15:06,569 - DEBUG - MinMax scaling completed.
+2023-11-20 16:15:06,569 - INFO - Data processing completed.
+2023-11-20 16:15:06,608 - INFO - Model training completed.
+2023-11-20 16:15:24,587 - INFO - Visualisation button clicked, redirecting to visualization module.
+2023-11-20 16:15:24,592 - DEBUG - Data visualization initiated...
+2023-11-20 16:15:24,601 - DEBUG - Data showroom initiated...
+2023-11-20 16:15:24,744 - INFO - Data showroom completed.
+2023-11-20 16:15:24,759 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,760 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:24,760 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:24,850 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:24,902 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,902 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:15:24,902 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,902 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:15:24,902 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,911 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:24,914 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:24,973 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,974 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:15:24,974 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,974 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:15:24,979 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:24,983 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:24,984 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:25,053 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,053 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:15:25,057 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,060 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:15:25,076 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,077 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:25,077 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:25,118 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,118 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:15:25,124 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,132 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:15:25,140 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,142 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:15:25,143 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:15:25,185 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,185 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:15:25,186 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,186 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:15:25,189 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,189 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:15:25,191 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:15:25,195 - DEBUG - STREAM b'IDAT' 131 13493
+2023-11-20 16:15:25,228 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,229 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:15:25,229 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,230 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:15:25,232 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,232 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:15:25,234 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:15:25,234 - DEBUG - STREAM b'IDAT' 131 31865
+2023-11-20 16:15:25,268 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,268 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:15:25,268 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:15:25,270 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:15:25,270 - INFO - Data visualization completed.
+2023-11-20 16:15:25,273 - INFO - Returned from visualisation module.
+2023-11-20 16:16:46,055 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:16:46,055 - DEBUG - Data ingestion started...
+2023-11-20 16:16:46,194 - INFO - Data ingestion completed.
+2023-11-20 16:16:46,194 - DEBUG - MinMax scaling started...
+2023-11-20 16:16:46,210 - DEBUG - MinMax scaling completed.
+2023-11-20 16:16:46,210 - INFO - Data processing completed.
+2023-11-20 16:16:46,251 - INFO - Model training completed.
+2023-11-20 16:16:52,432 - INFO - Visualisation button clicked, redirecting to visualization module.
+2023-11-20 16:16:52,432 - DEBUG - Data visualization initiated...
+2023-11-20 16:16:52,432 - DEBUG - Data showroom initiated...
+2023-11-20 16:16:52,579 - INFO - Data showroom completed.
+2023-11-20 16:16:52,587 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,588 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:52,588 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:52,703 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,707 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:16:52,712 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,713 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:16:52,718 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,719 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:52,720 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:52,796 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,797 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:16:52,799 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,799 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:16:52,801 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,801 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:52,804 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:52,867 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,867 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:16:52,875 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,875 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:16:52,883 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,885 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:52,885 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:52,963 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,964 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:16:52,965 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,965 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:16:52,966 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:52,967 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:52,967 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:53,013 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,013 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:16:53,013 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,013 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:16:53,020 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,020 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:16:53,020 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:16:53,077 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,079 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:16:53,083 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,083 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:16:53,083 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,085 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:16:53,085 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:16:53,087 - DEBUG - STREAM b'IDAT' 131 13493
+2023-11-20 16:16:53,115 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,115 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:16:53,115 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,115 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:16:53,124 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,125 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:16:53,126 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:16:53,126 - DEBUG - STREAM b'IDAT' 131 31865
+2023-11-20 16:16:53,161 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,161 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:16:53,161 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:16:53,161 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:16:53,161 - INFO - Data visualization completed.
+2023-11-20 16:16:53,161 - INFO - Returned from visualisation module.
+2023-11-20 16:16:56,846 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:16:56,848 - DEBUG - Data ingestion started...
+2023-11-20 16:16:56,934 - INFO - Data ingestion completed.
+2023-11-20 16:16:56,934 - DEBUG - MinMax scaling started...
+2023-11-20 16:16:56,942 - DEBUG - MinMax scaling completed.
+2023-11-20 16:16:56,942 - INFO - Data processing completed.
+2023-11-20 16:16:56,999 - INFO - Model training completed.
+2023-11-20 16:17:05,219 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:17:05,220 - DEBUG - Data ingestion started...
+2023-11-20 16:17:05,323 - INFO - Data ingestion completed.
+2023-11-20 16:17:05,323 - DEBUG - MinMax scaling started...
+2023-11-20 16:17:05,339 - DEBUG - MinMax scaling completed.
+2023-11-20 16:17:05,344 - INFO - Data processing completed.
+2023-11-20 16:17:05,384 - INFO - Model training completed.
+2023-11-20 16:17:25,785 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:17:25,786 - DEBUG - Data ingestion started...
+2023-11-20 16:17:25,925 - INFO - Data ingestion completed.
+2023-11-20 16:17:25,933 - DEBUG - MinMax scaling started...
+2023-11-20 16:17:25,940 - DEBUG - MinMax scaling completed.
+2023-11-20 16:17:25,950 - INFO - Data processing completed.
+2023-11-20 16:17:25,985 - INFO - Model training completed.
+2023-11-20 16:17:32,772 - INFO - Visualisation button clicked, redirecting to visualization module.
+2023-11-20 16:17:32,772 - DEBUG - Data visualization initiated...
+2023-11-20 16:17:32,777 - DEBUG - Data showroom initiated...
+2023-11-20 16:17:32,926 - INFO - Data showroom completed.
+2023-11-20 16:17:32,931 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:32,931 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:32,931 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,034 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,034 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:17:33,034 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,038 - DEBUG - STREAM b'IDAT' 41 57043
+2023-11-20 16:17:33,039 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,043 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:33,044 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,168 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,168 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:17:33,168 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,168 - DEBUG - STREAM b'IDAT' 41 59347
+2023-11-20 16:17:33,173 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,175 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:33,176 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,265 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,265 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:17:33,265 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,265 - DEBUG - STREAM b'IDAT' 41 60189
+2023-11-20 16:17:33,265 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,272 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:33,274 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,362 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,362 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:17:33,362 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,362 - DEBUG - STREAM b'IDAT' 41 61143
+2023-11-20 16:17:33,362 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,370 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:33,370 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,444 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,444 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:17:33,444 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,452 - DEBUG - STREAM b'IDAT' 41 19515
+2023-11-20 16:17:33,480 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,484 - DEBUG - STREAM b'sRGB' 41 1
+2023-11-20 16:17:33,485 - DEBUG - STREAM b'IDAT' 54 8192
+2023-11-20 16:17:33,551 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'IDAT' 41 30657
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:17:33,558 - DEBUG - STREAM b'IDAT' 131 13493
+2023-11-20 16:17:33,599 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,599 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'IDAT' 41 13493
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'tEXt' 41 57
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'pHYs' 110 9
+2023-11-20 16:17:33,608 - DEBUG - STREAM b'IDAT' 131 31865
+2023-11-20 16:17:33,640 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,640 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:17:33,640 - DEBUG - STREAM b'IHDR' 16 13
+2023-11-20 16:17:33,648 - DEBUG - STREAM b'IDAT' 41 31865
+2023-11-20 16:17:33,648 - INFO - Data visualization completed.
+2023-11-20 16:17:33,648 - INFO - Returned from visualisation module.
+2023-11-20 16:19:35,524 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:19:35,528 - DEBUG - Data ingestion started...
+2023-11-20 16:19:35,631 - INFO - Data ingestion completed.
+2023-11-20 16:19:35,631 - DEBUG - MinMax scaling started...
+2023-11-20 16:19:35,645 - DEBUG - MinMax scaling completed.
+2023-11-20 16:19:35,648 - INFO - Data processing completed.
+2023-11-20 16:19:35,679 - INFO - Model training completed.
+2023-11-20 16:22:00,760 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:22:00,768 - DEBUG - Data ingestion started...
+2023-11-20 16:22:00,873 - INFO - Data ingestion completed.
+2023-11-20 16:22:00,873 - DEBUG - MinMax scaling started...
+2023-11-20 16:22:00,897 - DEBUG - MinMax scaling completed.
+2023-11-20 16:22:00,901 - INFO - Data processing completed.
+2023-11-20 16:22:00,924 - INFO - Model training completed.
+2023-11-20 16:22:07,910 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:22:07,919 - DEBUG - Data ingestion started...
+2023-11-20 16:22:08,017 - INFO - Data ingestion completed.
+2023-11-20 16:22:08,018 - DEBUG - MinMax scaling started...
+2023-11-20 16:22:08,034 - DEBUG - MinMax scaling completed.
+2023-11-20 16:22:08,034 - INFO - Data processing completed.
+2023-11-20 16:22:08,197 - INFO - Training score: 0.549126213592233, Testing score: 0.53027950310559
+2023-11-20 16:22:08,234 - INFO - Precision: 0.5371900826446281, Recall: 0.5, F1 Score: 0.5179282868525896
+2023-11-20 16:22:08,289 - INFO - Model training completed.
+2023-11-20 16:22:09,357 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:22:09,359 - DEBUG - Data ingestion started...
+2023-11-20 16:22:09,534 - INFO - Data ingestion completed.
+2023-11-20 16:22:09,534 - DEBUG - MinMax scaling started...
+2023-11-20 16:22:09,555 - DEBUG - MinMax scaling completed.
+2023-11-20 16:22:09,555 - INFO - Data processing completed.
+2023-11-20 16:22:09,605 - INFO - Model training completed.
+2023-11-20 16:27:42,933 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:27:42,939 - DEBUG - Data ingestion started...
+2023-11-20 16:27:43,083 - INFO - Data ingestion completed.
+2023-11-20 16:27:43,083 - DEBUG - MinMax scaling started...
+2023-11-20 16:27:43,106 - DEBUG - MinMax scaling completed.
+2023-11-20 16:27:43,107 - INFO - Data processing completed.
+2023-11-20 16:27:43,136 - INFO - Model training completed.
+2023-11-20 16:27:44,162 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:27:44,166 - DEBUG - Data ingestion started...
+2023-11-20 16:27:44,290 - INFO - Data ingestion completed.
+2023-11-20 16:27:44,290 - DEBUG - MinMax scaling started...
+2023-11-20 16:27:44,304 - DEBUG - MinMax scaling completed.
+2023-11-20 16:27:44,312 - INFO - Data processing completed.
+2023-11-20 16:27:44,648 - INFO - Training score: 0.5904854368932039, Testing score: 0.547360248447205
+2023-11-20 16:27:44,666 - INFO - Precision: 0.5353016688061617, Recall: 0.6536050156739812, F1 Score: 0.5885673959068454
+2023-11-20 16:27:45,232 - INFO - Model training completed.
+2023-11-20 16:29:09,743 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:09,743 - DEBUG - Data ingestion started...
+2023-11-20 16:29:09,839 - INFO - Data ingestion completed.
+2023-11-20 16:29:09,839 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:09,852 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:09,853 - INFO - Data processing completed.
+2023-11-20 16:29:10,101 - INFO - Training score: 0.6089320388349515, Testing score: 0.531055900621118
+2023-11-20 16:29:10,119 - INFO - Precision: 0.5357833655705996, Recall: 0.43213728549141966, F1 Score: 0.47841105354058716
+2023-11-20 16:29:10,421 - INFO - Model training completed.
+2023-11-20 16:29:18,018 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:18,041 - DEBUG - Data ingestion started...
+2023-11-20 16:29:18,157 - INFO - Data ingestion completed.
+2023-11-20 16:29:18,162 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:18,186 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:18,186 - INFO - Data processing completed.
+2023-11-20 16:29:18,233 - INFO - Model training completed.
+2023-11-20 16:29:21,500 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:21,528 - DEBUG - Data ingestion started...
+2023-11-20 16:29:21,740 - INFO - Data ingestion completed.
+2023-11-20 16:29:21,750 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:21,772 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:21,778 - INFO - Data processing completed.
+2023-11-20 16:29:21,805 - INFO - Model training completed.
+2023-11-20 16:29:23,297 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:23,301 - DEBUG - Data ingestion started...
+2023-11-20 16:29:23,405 - INFO - Data ingestion completed.
+2023-11-20 16:29:23,407 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:23,421 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:23,421 - INFO - Data processing completed.
+2023-11-20 16:29:23,917 - INFO - Training score: 0.592621359223301, Testing score: 0.5458074534161491
+2023-11-20 16:29:23,927 - INFO - Precision: 0.5467289719626168, Recall: 0.3744, F1 Score: 0.4444444444444445
+2023-11-20 16:29:24,289 - INFO - Model training completed.
+2023-11-20 16:29:30,923 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:30,941 - DEBUG - Data ingestion started...
+2023-11-20 16:29:31,062 - INFO - Data ingestion completed.
+2023-11-20 16:29:31,072 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:31,092 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:31,094 - INFO - Data processing completed.
+2023-11-20 16:29:31,142 - INFO - Model training completed.
+2023-11-20 16:29:31,984 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:31,990 - DEBUG - Data ingestion started...
+2023-11-20 16:29:32,142 - INFO - Data ingestion completed.
+2023-11-20 16:29:32,142 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:32,166 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:32,170 - INFO - Data processing completed.
+2023-11-20 16:29:32,203 - INFO - Model training completed.
+2023-11-20 16:29:33,494 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:33,494 - DEBUG - Data ingestion started...
+2023-11-20 16:29:33,615 - INFO - Data ingestion completed.
+2023-11-20 16:29:33,622 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:33,640 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:33,640 - INFO - Data processing completed.
+2023-11-20 16:29:33,677 - INFO - Model training completed.
+2023-11-20 16:29:40,085 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:29:40,103 - DEBUG - Data ingestion started...
+2023-11-20 16:29:40,227 - INFO - Data ingestion completed.
+2023-11-20 16:29:40,230 - DEBUG - MinMax scaling started...
+2023-11-20 16:29:40,233 - DEBUG - MinMax scaling completed.
+2023-11-20 16:29:40,244 - INFO - Data processing completed.
+2023-11-20 16:29:41,146 - INFO - Training score: 0.7112621359223301, Testing score: 0.5232919254658385
+2023-11-20 16:29:41,184 - INFO - Precision: 0.5016339869281046, Recall: 0.49837662337662336, F1 Score: 0.5
+2023-11-20 16:29:42,291 - INFO - Model training completed.
+2023-11-20 16:30:58,721 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:30:58,739 - DEBUG - Data ingestion started...
+2023-11-20 16:30:58,871 - INFO - Data ingestion completed.
+2023-11-20 16:30:58,882 - DEBUG - MinMax scaling started...
+2023-11-20 16:30:58,885 - DEBUG - MinMax scaling completed.
+2023-11-20 16:30:58,896 - INFO - Data processing completed.
+2023-11-20 16:30:59,616 - INFO - Training score: 0.7242718446601941, Testing score: 0.5279503105590062
+2023-11-20 16:30:59,645 - INFO - Precision: 0.5116279069767442, Recall: 0.5296950240770465, F1 Score: 0.5205047318611988
+2023-11-20 16:31:00,240 - INFO - Model training completed.
+2023-11-20 16:31:01,190 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:31:01,193 - DEBUG - Data ingestion started...
+2023-11-20 16:31:01,361 - INFO - Data ingestion completed.
+2023-11-20 16:31:01,373 - DEBUG - MinMax scaling started...
+2023-11-20 16:31:01,383 - DEBUG - MinMax scaling completed.
+2023-11-20 16:31:01,387 - INFO - Data processing completed.
+2023-11-20 16:31:01,527 - INFO - Training score: 0.5522330097087379, Testing score: 0.5178571428571429
+2023-11-20 16:31:01,546 - INFO - Precision: 0.49850746268656715, Recall: 0.5395799676898223, F1 Score: 0.5182311869666408
+2023-11-20 16:31:01,633 - INFO - Model training completed.
+2023-11-20 16:31:03,616 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:31:03,621 - DEBUG - Data ingestion started...
+2023-11-20 16:31:03,737 - INFO - Data ingestion completed.
+2023-11-20 16:31:03,737 - DEBUG - MinMax scaling started...
+2023-11-20 16:31:03,753 - DEBUG - MinMax scaling completed.
+2023-11-20 16:31:03,753 - INFO - Data processing completed.
+2023-11-20 16:31:08,290 - INFO - Training score: 0.5518446601941748, Testing score: 0.532608695652174
+2023-11-20 16:31:08,704 - INFO - Precision: 0.5229357798165137, Recall: 0.5411392405063291, F1 Score: 0.5318818040435459
+2023-11-20 16:31:13,496 - INFO - Model training completed.
+2023-11-20 16:31:51,778 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:31:51,782 - DEBUG - Data ingestion started...
+2023-11-20 16:31:51,905 - INFO - Data ingestion completed.
+2023-11-20 16:31:51,907 - DEBUG - MinMax scaling started...
+2023-11-20 16:31:51,940 - DEBUG - MinMax scaling completed.
+2023-11-20 16:31:51,945 - INFO - Data processing completed.
+2023-11-20 16:32:03,508 - INFO - Training score: 0.8794174757281553, Testing score: 0.5675465838509317
+2023-11-20 16:32:03,582 - INFO - Precision: 0.5825082508250825, Recall: 0.5372907153729072, F1 Score: 0.5589865399841647
+2023-11-20 16:32:18,053 - INFO - Model training completed.
+2023-11-20 16:34:29,187 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:34:29,191 - DEBUG - Data ingestion started...
+2023-11-20 16:34:29,308 - INFO - Data ingestion completed.
+2023-11-20 16:34:29,312 - DEBUG - MinMax scaling started...
+2023-11-20 16:34:29,344 - DEBUG - MinMax scaling completed.
+2023-11-20 16:34:29,348 - INFO - Data processing completed.
+2023-11-20 16:34:40,443 - INFO - Training score: 0.8786407766990292, Testing score: 0.5659937888198758
+2023-11-20 16:34:40,461 - INFO - Precision: 0.563573883161512, Recall: 0.5181674565560821, F1 Score: 0.539917695473251
+2023-11-20 16:34:47,925 - INFO - Model training completed.
+2023-11-20 16:37:52,509 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:37:52,539 - DEBUG - Data ingestion started...
+2023-11-20 16:37:52,726 - INFO - Data ingestion completed.
+2023-11-20 16:37:52,728 - DEBUG - MinMax scaling started...
+2023-11-20 16:37:52,787 - DEBUG - MinMax scaling completed.
+2023-11-20 16:37:52,789 - INFO - Data processing completed.
+2023-11-20 16:37:52,829 - INFO - Model training completed.
+2023-11-20 16:37:55,721 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:37:55,728 - DEBUG - Data ingestion started...
+2023-11-20 16:37:55,852 - INFO - Data ingestion completed.
+2023-11-20 16:37:55,852 - DEBUG - MinMax scaling started...
+2023-11-20 16:37:55,866 - DEBUG - MinMax scaling completed.
+2023-11-20 16:37:55,881 - INFO - Data processing completed.
+2023-11-20 16:37:58,160 - INFO - Training score: 0.6654368932038836, Testing score: 0.5434782608695652
+2023-11-20 16:37:58,177 - INFO - Precision: 0.5684380032206119, Recall: 0.524517087667162, F1 Score: 0.5455950540958269
+2023-11-20 16:38:00,922 - INFO - Model training completed.
+2023-11-20 16:38:09,042 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:38:09,049 - DEBUG - Data ingestion started...
+2023-11-20 16:38:09,186 - INFO - Data ingestion completed.
+2023-11-20 16:38:09,186 - DEBUG - MinMax scaling started...
+2023-11-20 16:38:09,205 - DEBUG - MinMax scaling completed.
+2023-11-20 16:38:09,205 - INFO - Data processing completed.
+2023-11-20 16:38:09,739 - INFO - Training score: 0.5877669902912621, Testing score: 0.562111801242236
+2023-11-20 16:38:09,760 - INFO - Precision: 0.5457063711911357, Recall: 0.6253968253968254, F1 Score: 0.5828402366863906
+2023-11-20 16:38:10,358 - INFO - Model training completed.
+2023-11-20 16:39:05,096 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:05,099 - DEBUG - Data ingestion started...
+2023-11-20 16:39:05,231 - INFO - Data ingestion completed.
+2023-11-20 16:39:05,233 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:05,251 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:05,257 - INFO - Data processing completed.
+2023-11-20 16:39:05,286 - INFO - Model training completed.
+2023-11-20 16:39:07,731 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:07,739 - DEBUG - Data ingestion started...
+2023-11-20 16:39:07,950 - INFO - Data ingestion completed.
+2023-11-20 16:39:07,954 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:07,971 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:07,977 - INFO - Data processing completed.
+2023-11-20 16:39:08,052 - INFO - Model training completed.
+2023-11-20 16:39:12,483 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:12,514 - DEBUG - Data ingestion started...
+2023-11-20 16:39:12,691 - INFO - Data ingestion completed.
+2023-11-20 16:39:12,699 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:12,712 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:12,738 - INFO - Data processing completed.
+2023-11-20 16:39:12,782 - INFO - Model training completed.
+2023-11-20 16:39:13,780 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:13,788 - DEBUG - Data ingestion started...
+2023-11-20 16:39:13,995 - INFO - Data ingestion completed.
+2023-11-20 16:39:13,997 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:14,016 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:14,016 - INFO - Data processing completed.
+2023-11-20 16:39:14,068 - INFO - Model training completed.
+2023-11-20 16:39:15,787 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:15,802 - DEBUG - Data ingestion started...
+2023-11-20 16:39:15,920 - INFO - Data ingestion completed.
+2023-11-20 16:39:15,924 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:15,943 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:15,943 - INFO - Data processing completed.
+2023-11-20 16:39:16,026 - INFO - Model training completed.
+2023-11-20 16:39:18,204 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:18,220 - DEBUG - Data ingestion started...
+2023-11-20 16:39:18,353 - INFO - Data ingestion completed.
+2023-11-20 16:39:18,370 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:18,394 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:18,394 - INFO - Data processing completed.
+2023-11-20 16:39:18,431 - INFO - Model training completed.
+2023-11-20 16:39:20,002 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:20,020 - DEBUG - Data ingestion started...
+2023-11-20 16:39:20,180 - INFO - Data ingestion completed.
+2023-11-20 16:39:20,185 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:20,207 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:20,210 - INFO - Data processing completed.
+2023-11-20 16:39:20,240 - INFO - Model training completed.
+2023-11-20 16:39:23,154 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:39:23,160 - DEBUG - Data ingestion started...
+2023-11-20 16:39:23,302 - INFO - Data ingestion completed.
+2023-11-20 16:39:23,309 - DEBUG - MinMax scaling started...
+2023-11-20 16:39:23,328 - DEBUG - MinMax scaling completed.
+2023-11-20 16:39:23,332 - INFO - Data processing completed.
+2023-11-20 16:39:23,985 - INFO - Training score: 0.5852427184466019, Testing score: 0.5100931677018633
+2023-11-20 16:39:23,999 - INFO - Precision: 0.5052264808362369, Recall: 0.4552590266875981, F1 Score: 0.4789430222956234
+2023-11-20 16:39:24,743 - INFO - Model training completed.
+2023-11-20 16:40:06,407 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:40:06,418 - DEBUG - Data ingestion started...
+2023-11-20 16:40:06,539 - INFO - Data ingestion completed.
+2023-11-20 16:40:06,542 - DEBUG - MinMax scaling started...
+2023-11-20 16:40:06,557 - DEBUG - MinMax scaling completed.
+2023-11-20 16:40:06,560 - INFO - Data processing completed.
+2023-11-20 16:40:06,592 - INFO - Model training completed.
+2023-11-20 16:41:52,899 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:41:52,908 - DEBUG - Data ingestion started...
+2023-11-20 16:41:53,043 - INFO - Data ingestion completed.
+2023-11-20 16:41:53,049 - DEBUG - MinMax scaling started...
+2023-11-20 16:41:53,069 - DEBUG - MinMax scaling completed.
+2023-11-20 16:41:53,075 - INFO - Data processing completed.
+2023-11-20 16:41:53,116 - DEBUG - Pipeline runner started...
+2023-11-20 16:41:53,119 - DEBUG - Data ingestion started...
+2023-11-20 16:41:53,243 - INFO - Data ingestion completed.
+2023-11-20 16:41:53,246 - DEBUG - MinMax scaling started...
+2023-11-20 16:41:53,266 - DEBUG - MinMax scaling completed.
+2023-11-20 16:41:53,269 - INFO - Data processing completed.
+2023-11-20 16:41:53,281 - DEBUG - Deducting by test...
+2023-11-20 16:41:53,283 - DEBUG - Validating RandomForestClassifier() algorithm.
+2023-11-20 16:43:54,497 - INFO - RandomForestClassifier() - Train Score: 0.9001941747572816, Test Score: 0.5535714285714286, Cross-Val Score: 0.5526554363510885
+2023-11-20 16:43:54,528 - DEBUG - Validation for RandomForestClassifier() completed.
+2023-11-20 16:43:54,538 - DEBUG - Validating DecisionTreeClassifier() algorithm.
+2023-11-20 16:44:02,643 - INFO - DecisionTreeClassifier() - Train Score: 0.9001941747572816, Test Score: 0.5458074534161491, Cross-Val Score: 0.5579371111979807
+2023-11-20 16:44:02,691 - DEBUG - Validation for DecisionTreeClassifier() completed.
+2023-11-20 16:44:02,691 - DEBUG - Validating LogisticRegression() algorithm.
+2023-11-20 16:44:03,020 - INFO - LogisticRegression() - Train Score: 0.5471844660194175, Test Score: 0.5178571428571429, Cross-Val Score: 0.5215913313739401
+2023-11-20 16:44:03,067 - DEBUG - Validation for LogisticRegression() completed.
+2023-11-20 16:44:03,076 - DEBUG - Validating SVC() algorithm.
+2023-11-20 16:44:40,689 - INFO - SVC() - Train Score: 0.7545631067961165, Test Score: 0.5419254658385093, Cross-Val Score: 0.5490843697365436
+2023-11-20 16:44:40,693 - DEBUG - Validation for SVC() completed.
+2023-11-20 16:44:40,696 - INFO - Searching for the best model based on test score of rf: 0.5535714285714286
+2023-11-20 16:44:40,700 - INFO - Searching for the best model based on test score of dt: 0.5458074534161491
+2023-11-20 16:44:40,701 - INFO - Searching for the best model based on test score of logr: 0.5178571428571429
+2023-11-20 16:44:40,705 - INFO - Searching for the best model based on test score of svm: 0.5419254658385093
+2023-11-20 16:44:40,707 - DEBUG - Deduction completed.
+2023-11-20 16:45:01,116 - INFO - Training score: 0.901747572815534, Testing score: 0.5822981366459627
+2023-11-20 16:45:01,197 - INFO - Precision: 0.5771929824561404, Recall: 0.5255591054313099, F1 Score: 0.5501672240802675
+2023-11-20 16:45:26,149 - INFO - Model training completed.
+2023-11-20 16:45:26,211 - INFO - Model training completed.
+2023-11-20 16:53:49,496 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:49,512 - DEBUG - Data ingestion started...
+2023-11-20 16:53:49,808 - INFO - Data ingestion completed.
+2023-11-20 16:53:49,810 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:49,858 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:49,861 - INFO - Data processing completed.
+2023-11-20 16:53:49,918 - INFO - Model training completed.
+2023-11-20 16:53:50,231 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:50,236 - DEBUG - Data ingestion started...
+2023-11-20 16:53:50,399 - INFO - Data ingestion completed.
+2023-11-20 16:53:50,400 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:50,416 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:50,420 - INFO - Data processing completed.
+2023-11-20 16:53:50,457 - INFO - Model training completed.
+2023-11-20 16:53:50,980 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:51,006 - DEBUG - Data ingestion started...
+2023-11-20 16:53:51,146 - INFO - Data ingestion completed.
+2023-11-20 16:53:51,147 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:51,173 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:51,176 - INFO - Data processing completed.
+2023-11-20 16:53:51,225 - INFO - Model training completed.
+2023-11-20 16:53:51,459 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:51,473 - DEBUG - Data ingestion started...
+2023-11-20 16:53:51,616 - INFO - Data ingestion completed.
+2023-11-20 16:53:51,624 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:51,648 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:51,650 - INFO - Data processing completed.
+2023-11-20 16:53:51,690 - INFO - Model training completed.
+2023-11-20 16:53:53,159 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:53,162 - DEBUG - Data ingestion started...
+2023-11-20 16:53:53,274 - INFO - Data ingestion completed.
+2023-11-20 16:53:53,274 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:53,321 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:53,324 - INFO - Data processing completed.
+2023-11-20 16:53:53,358 - INFO - Model training completed.
+2023-11-20 16:53:54,922 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:54,928 - DEBUG - Data ingestion started...
+2023-11-20 16:53:55,054 - INFO - Data ingestion completed.
+2023-11-20 16:53:55,058 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:55,077 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:55,086 - INFO - Data processing completed.
+2023-11-20 16:53:55,120 - INFO - Model training completed.
+2023-11-20 16:53:56,186 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:56,192 - DEBUG - Data ingestion started...
+2023-11-20 16:53:56,321 - INFO - Data ingestion completed.
+2023-11-20 16:53:56,332 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:56,349 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:56,355 - INFO - Data processing completed.
+2023-11-20 16:53:56,394 - INFO - Model training completed.
+2023-11-20 16:53:59,147 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:59,152 - DEBUG - Data ingestion started...
+2023-11-20 16:53:59,302 - INFO - Data ingestion completed.
+2023-11-20 16:53:59,304 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:59,327 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:59,332 - INFO - Data processing completed.
+2023-11-20 16:53:59,363 - INFO - Model training completed.
+2023-11-20 16:53:59,570 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:53:59,578 - DEBUG - Data ingestion started...
+2023-11-20 16:53:59,720 - INFO - Data ingestion completed.
+2023-11-20 16:53:59,731 - DEBUG - MinMax scaling started...
+2023-11-20 16:53:59,752 - DEBUG - MinMax scaling completed.
+2023-11-20 16:53:59,752 - INFO - Data processing completed.
+2023-11-20 16:53:59,790 - INFO - Model training completed.
+2023-11-20 16:54:00,436 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:00,436 - DEBUG - Data ingestion started...
+2023-11-20 16:54:00,574 - INFO - Data ingestion completed.
+2023-11-20 16:54:00,580 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:00,598 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:00,598 - INFO - Data processing completed.
+2023-11-20 16:54:00,647 - INFO - Model training completed.
+2023-11-20 16:54:01,443 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:01,449 - DEBUG - Data ingestion started...
+2023-11-20 16:54:01,574 - INFO - Data ingestion completed.
+2023-11-20 16:54:01,578 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:01,597 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:01,599 - INFO - Data processing completed.
+2023-11-20 16:54:01,636 - INFO - Model training completed.
+2023-11-20 16:54:03,782 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:03,788 - DEBUG - Data ingestion started...
+2023-11-20 16:54:03,906 - INFO - Data ingestion completed.
+2023-11-20 16:54:03,909 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:03,928 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:03,929 - INFO - Data processing completed.
+2023-11-20 16:54:03,961 - INFO - Model training completed.
+2023-11-20 16:54:04,753 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:04,785 - DEBUG - Data ingestion started...
+2023-11-20 16:54:04,924 - INFO - Data ingestion completed.
+2023-11-20 16:54:04,924 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:04,950 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:04,950 - INFO - Data processing completed.
+2023-11-20 16:54:04,981 - INFO - Model training completed.
+2023-11-20 16:54:05,311 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:05,318 - DEBUG - Data ingestion started...
+2023-11-20 16:54:05,437 - INFO - Data ingestion completed.
+2023-11-20 16:54:05,437 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:05,483 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:05,483 - INFO - Data processing completed.
+2023-11-20 16:54:05,525 - INFO - Model training completed.
+2023-11-20 16:54:08,613 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:54:08,617 - DEBUG - Data ingestion started...
+2023-11-20 16:54:08,724 - INFO - Data ingestion completed.
+2023-11-20 16:54:08,731 - DEBUG - MinMax scaling started...
+2023-11-20 16:54:08,755 - DEBUG - MinMax scaling completed.
+2023-11-20 16:54:08,757 - INFO - Data processing completed.
+2023-11-20 16:54:33,924 - INFO - Training score: 0.9025242718446602, Testing score: 0.5675465838509317
+2023-11-20 16:54:33,996 - INFO - Precision: 0.5643224699828473, Recall: 0.5205696202531646, F1 Score: 0.5415637860082303
+2023-11-20 16:55:01,526 - INFO - Model training completed.
+2023-11-20 16:55:11,204 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:55:11,220 - DEBUG - Data ingestion started...
+2023-11-20 16:55:11,357 - INFO - Data ingestion completed.
+2023-11-20 16:55:11,360 - DEBUG - MinMax scaling started...
+2023-11-20 16:55:11,383 - DEBUG - MinMax scaling completed.
+2023-11-20 16:55:11,389 - INFO - Data processing completed.
+2023-11-20 16:55:11,429 - INFO - Model training completed.
+2023-11-20 16:55:20,082 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:55:20,089 - DEBUG - Data ingestion started...
+2023-11-20 16:55:20,226 - INFO - Data ingestion completed.
+2023-11-20 16:55:20,226 - DEBUG - MinMax scaling started...
+2023-11-20 16:55:20,258 - DEBUG - MinMax scaling completed.
+2023-11-20 16:55:20,264 - INFO - Data processing completed.
+2023-11-20 16:55:20,309 - INFO - Model training completed.
+2023-11-20 16:55:29,718 - INFO - Playground button clicked, initiating model training.
+2023-11-20 16:55:29,722 - DEBUG - Data ingestion started...
+2023-11-20 16:55:29,848 - INFO - Data ingestion completed.
+2023-11-20 16:55:29,852 - DEBUG - MinMax scaling started...
+2023-11-20 16:55:29,879 - DEBUG - MinMax scaling completed.
+2023-11-20 16:55:29,885 - INFO - Data processing completed.
+2023-11-20 16:55:29,926 - INFO - Model training completed.
+2023-11-20 17:05:54,787 - INFO - Playground button clicked, initiating model training.
+2023-11-20 17:05:54,788 - DEBUG - Data ingestion started...
+2023-11-20 17:05:54,974 - INFO - Data ingestion completed.
+2023-11-20 17:05:54,976 - DEBUG - MinMax scaling started...
+2023-11-20 17:05:55,010 - DEBUG - MinMax scaling completed.
+2023-11-20 17:05:55,010 - INFO - Data processing completed.
+2023-11-20 17:05:55,081 - INFO - Model training completed.
+2023-11-20 17:06:03,077 - INFO - Playground button clicked, initiating model training.
+2023-11-20 17:06:03,086 - DEBUG - Data ingestion started...
+2023-11-20 17:06:03,428 - INFO - Data ingestion completed.
+2023-11-20 17:06:03,428 - DEBUG - MinMax scaling started...
+2023-11-20 17:06:03,446 - DEBUG - MinMax scaling completed.
+2023-11-20 17:06:03,447 - INFO - Data processing completed.
+2023-11-20 17:06:03,497 - INFO - Model training completed.
