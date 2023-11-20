@@ -29,7 +29,7 @@ def clean_log_file()-> None:
     if os.path.exists(log_file):
         file_size = os.path.getsize(log_file)
         if file_size > 1000000:
-            open("my_log.log", 'w').close()
+            open("model_log.log", 'w').close()
 clean_log_file()
 
 st.title(':blue[Microsoft Machine Failure Detection]')

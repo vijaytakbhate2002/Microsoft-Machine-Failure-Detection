@@ -1,7 +1,5 @@
 import streamlit as st
 
-st.title(':blue[Microsoft Machine Failure Detection]')
-
 def show_contact():
     st.subheader('Contact Details', divider='rainbow')
     
