@@ -2,6 +2,11 @@
 
 Welcome to the Microsoft Machine Failure Detection project! This Streamlit application is designed for predictive maintenance, featuring three key pages for hyperparameter tuning, model selection, and comprehensive visualization. Here's a quick overview of the project:
 
+## View
+<img src='static\Screenshot (34).png' alt='Image 1'>
+<img src='static\Screenshot (35).png' alt='Image 2'>
+<img src='static\Screenshot (36).png' alt='Image 3'>
+
 ## Project Overview
 
 - **Objective:** Predictive maintenance for machine failure detection using various machine learning algorithms.
